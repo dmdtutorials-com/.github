@@ -7,5 +7,3 @@
 [[downloads]](https://dmdtutorials.com/downloads)
 #### [ ]()
 ---------------------------
-#### [ ]()
-### more stuff coming soon!
