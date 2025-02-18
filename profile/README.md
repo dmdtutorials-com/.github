@@ -1,4 +1,4 @@
-#### *This is the official DMD Tutorials GitHub Account!*
+#### *This is the official DMD™ GitHub Account!*
 # Check out our stuff!
 [```[website]```](https://dmdtutorials.com)
 #### [ ]()
